@@ -45,8 +45,7 @@ public class LoginForm extends CustomComponent {
 		login.setImmediate(true);
 		login.setWidth("-1px");
 		login.setHeight("-1px");
-		mainLayout.addComponent(login);
-		
+		mainLayout.addComponent(login, "top:134.0px;left:124.0px;");
 		return mainLayout;
 	}
 

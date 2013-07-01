@@ -15,6 +15,5 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.apache.ivyde.eclipse.cpcontainer.IVYDE_CONTAINER/?project=test&amp;ivyXmlPath=ivy.xml&amp;confs=widgetset-compile&amp;ivySettingsPath=%24%7Bworkspace_loc%3Atest%2Fivysettings.xml%7D&amp;loadSettingsOnDemand=false&amp;propertyFiles="/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/hibernate_4.2"/>
-	<classpathentry kind="lib" path="/home/mazy/Downloads/mysql-connector-java-5.1.25/mysql-connector-java-5.1.25-bin.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

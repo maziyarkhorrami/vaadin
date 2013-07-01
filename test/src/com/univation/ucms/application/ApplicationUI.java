@@ -26,6 +26,7 @@ public class ApplicationUI extends UI {
 	protected void init(VaadinRequest request) {
 		final VerticalLayout layout = new VerticalLayout();
 		layout.setMargin(true);
+		layout.setSizeFull();
 		setContent(layout);
 
 		
